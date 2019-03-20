@@ -2,7 +2,10 @@ class Owner
   attr_accessor :pets
   
   @pets = {fishes: [], cats: [], dogs: []}
-  def all 
-    
+  
+  @@all = []
+  
+  def all(all) 
+    @@all << all
   end 
 end
