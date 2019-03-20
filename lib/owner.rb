@@ -3,9 +3,6 @@ class Owner
   
   @pets = {fishes: [], cats: [], dogs: []}
   
-  @@all = []
   
-  def all 
-    @@all << all
-  end 
+  
 end
