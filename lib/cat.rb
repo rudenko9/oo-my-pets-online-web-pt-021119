@@ -1,10 +1,9 @@
 class Cat 
   
-  def initialize(cat)
+  def initialize(name,cat)
+    @name = name
     @cat = cat
    end 
-   def name 
-     @name  
-   end 
+   
    
 end
