@@ -3,7 +3,6 @@ class Cat
   
   def initialize(cat)
     @cat = cat
-    @cat << name
    end 
    
    
