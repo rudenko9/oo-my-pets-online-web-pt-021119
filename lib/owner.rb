@@ -33,6 +33,8 @@ end
 def buy_cat(name)
   pets[:cat] << Cat.new(name)
 end 
+def buy_dog(name)
+  pets[:dog] << Dog.new(name)
 
 
 end
