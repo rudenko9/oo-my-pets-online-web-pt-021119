@@ -4,7 +4,7 @@ class Cat
     @cat = cat
    end 
    def name 
-     @name << @name 
+     @name  
    end 
    
 end
