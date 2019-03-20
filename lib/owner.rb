@@ -31,7 +31,7 @@ def buy_fish(name)
 end 
 
 def buy_cat(name)
-  
+  pets[:cat] << 
 end 
 
 
