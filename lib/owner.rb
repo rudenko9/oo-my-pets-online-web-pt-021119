@@ -5,14 +5,8 @@ class Owner
   
   def initialize(name)
     @name = name
-    @pets = pets
-    
-  end 
+    end 
   
-  @@all = []
   
- def self.all 
-   @@all
- end 
   
 end
