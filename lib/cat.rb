@@ -5,6 +5,8 @@ class Cat
    def initialize(name)
     @name = name
    end 
-  
+  def mood
+    @mood = []
+  end 
    
 end
