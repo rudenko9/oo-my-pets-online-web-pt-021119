@@ -3,8 +3,6 @@ class Owner
   
   @pets = {fishes: [], cats: [], dogs: []}
   
-  def all 
-    
-  end 
+ 
   
 end
