@@ -1,5 +1,4 @@
-class Cat
-  attr_writer :name 
+class Cat 
   
   def initialize(cat)
     @cat = cat
