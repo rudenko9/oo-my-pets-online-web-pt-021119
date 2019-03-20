@@ -26,7 +26,9 @@ def say_species
   "I am a #{@species}."
 end 
 
-def 
+def buy_fish
+  
+end 
 
 
 end
