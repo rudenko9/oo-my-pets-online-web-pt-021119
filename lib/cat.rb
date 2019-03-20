@@ -4,9 +4,8 @@ class Cat
   
    def initialize(name)
     @name = name
+    @mood = ""
    end 
-  def self.mood
-      @mood
-  end 
+  
    
 end
