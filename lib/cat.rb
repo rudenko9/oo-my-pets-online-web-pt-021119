@@ -1,5 +1,5 @@
 class Cat
-  def initialize(cat)
+  def initialize(cat = kitty)
     @cat = cat
   end 
 end
