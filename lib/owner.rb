@@ -33,7 +33,7 @@ end
 def buy_dog(name)
   pets[:dogs] << Dog.new(name)
 end 
-def self.walk_dog
+def walk_dog
   
 end 
 
