@@ -7,6 +7,7 @@ class Owner
     @name = name
     
   end 
+  
   @@all = []
   
  def self.all 
