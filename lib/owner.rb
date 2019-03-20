@@ -1,3 +1,3 @@
 class Owner
-  
+  @pets = 
 end
