@@ -8,6 +8,8 @@ class Owner
      @pets = fishes
     end 
   
-  
+  def buy_fish
+    
+  end 
   
 end
