@@ -5,7 +5,7 @@ class Owner
   def initialize(name)
     @name = name
     @pets = {fishes: [], cats: [], dogs: []}
-     @fish = ""Bubbles""
+    @fishes = ""Bubbles""
     end 
   
   def buy_fish(name)
