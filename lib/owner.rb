@@ -9,6 +9,7 @@ class Owner
     @species = species 
     @@all << self
     end 
+    
   @@all = []
    
    def self.all
