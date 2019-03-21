@@ -63,7 +63,4 @@ end
    "I have 2 fish, 3 dog(s), and 1 cat(s)."
   end 
 
-
-
-
 end
