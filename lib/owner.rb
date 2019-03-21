@@ -51,8 +51,11 @@ def feed_fish
 end 
 
 def sell_pets
-  if pets.mood = "nerveous"
-  
+  if" pets.mood = "nervous"
+    "true" 
+  else 
+    "false"
+  end 
 end 
 
 
