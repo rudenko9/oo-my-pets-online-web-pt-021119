@@ -57,6 +57,7 @@ def sell_pets
   else 
     pets.clear
   end 
+  end 
 end 
 
 
