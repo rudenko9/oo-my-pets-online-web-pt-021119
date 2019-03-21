@@ -51,12 +51,11 @@ def feed_fish
 end 
 
 def sell_pets
-  if  pets.each do |pet|
+   pets.each do |pet|
     pet.mood = "nervous"
     pets 
-  else 
-    pets.clear
   end 
+    pets.clear
   end 
 end 
 
